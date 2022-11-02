@@ -16,8 +16,6 @@ import java.io.IOException;
  * <p>This Inventory Management application implements the requested business requirements for a solution that effectively
  * manages an inventory of parts and products made up of parts.</p>
  *
- *<br> The JavaDocs are located in the JavaDocs folder (./QKM2/JavaDoc)<br>
- *
  * <p>FUTURE ENHANCEMENT : add the ability to increment/decrement a part or product's inventory without having to modify the object.
  * <br>FUTURE ENHANCEMENT : add alerts to notify of low inventory levels as you approach the set minimum value.
  * <br>FUTURE ENHANCEMENT : store inventory in a relational database for better long term storage and increased data integrity.</p>
